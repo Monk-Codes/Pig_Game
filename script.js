@@ -62,5 +62,5 @@ btnHold.addEventListener('click', function (e) {
   }
 });
 btnNew.addEventListener('click', function () {
-  location.reload();
+  location_.reload();
 });
